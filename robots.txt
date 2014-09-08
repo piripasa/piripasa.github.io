@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://piripasa.github.io/sitemap.xml 
