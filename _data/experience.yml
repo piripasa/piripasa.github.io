@@ -17,7 +17,7 @@
 - company: i2we, Berkeley, CA, USA
   position: Software Engineer
   duration:   Mar, 2011  &mdash; Aug, 2011
-  summary: <ul class="resume-item-list"><li>Contributed to our flagship product. Social Couponing, Facebook Design Tools, and a Social Communication Manager that will help you grow your business and succeed in social media.</li><li>Mainly worked on the PHP stack and do various R&Ds for the startup.</li></ul>
+  summary: <ul class="resume-item-list"><li>Contributed to company's flagship product. Social Couponing, Facebook Design Tools, and a Social Communication Manager that will help you grow your business and succeed in social media.</li><li>Mainly worked on the PHP stack and do various R&Ds for the startup.</li></ul>
   technology: PHP, HTML, CSS, Javascript, jQuery, Codeigniter, SVN, Linux, Apache, MySQL, Memcached
 
 # Leevio
