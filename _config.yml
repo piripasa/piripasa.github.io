@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Resume Of Zaman-A-Piri Pasa"
+resume_name:                    "Zaman-A-Piri Pasa"
 resume_title:                   "Web Application Developer"
 resume_contact_email:           "pollobcse05@gmail.com"
 resume_contact_telephone:       "+8801723084619"
@@ -38,12 +38,12 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
+  resume_linkedin_url:          "https://www.linkedin.com/in/piripasa"
   resume_github_url:            "https://github.com/piripasa"
   resume_twitter_url:           "https://twitter.com/piripasa"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://facebook.com/piripasa"
-  resume_linkedin_url:          "https://www.linkedin.com/in/piripasa"
-  resume_instagram_url:         "http://instagram.com/piripasa"
+  # resume_instagram_url:         "http://instagram.com/piripasa"
   # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
