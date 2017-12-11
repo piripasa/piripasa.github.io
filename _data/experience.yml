@@ -3,26 +3,26 @@
 - company: East West Media Group Ltd. Dhaka, Bangladesh
   position: Sr. Software Engineer
   duration: June, 2016 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Plan, design and implement underlying resource and architecture for in-house developed web/mobile application.</li><li>Infrastructure Architecture, design, Configuration.</li><li>Responsible for developing APIs for Instant Messaging App which is in App store currently.</li><li>Work with the Platform Architect to achieve operational (dev/ops) Technical excellence of projects and future solutions.</li></ul>
+  summary: <ul class="resume-item-list"><li>Plan, design and implement underlying resource and architecture for in-house developed web/mobile application.</li><li>Responsible for developing APIs for Instant Messaging App which is in App store currently.</li><li>Work with the Platform Architect to achieve operational (dev/ops) Technical excellence of projects and future solutions.</li><li>Work closely and collaboratively with management, analysts, and performance improvement specialists to advance data integration</li><li>Database modeling, development, optimization and business intelligence service implementation.</li></ul>
   technology: PHP, Laravel, Lumen, Redis, Firebase, SocketIO, WebRTC, XMPP, HTML, CSS, Javascript, jQuery, VueJs, Redux, Git, Nginx, MySQL, Elasticsearch
 
 # Noobis Inc.
 - company: Noobis Inc. Buffalo, NY, USA
   position: Software Engineer
   duration:  Sept, 2011 &mdash; Jun, 2016
-  summary: <ul class="resume-item-list"><li>Worked on several enterprise level web and back end applications.</li><li>Planned and executed projects and choosed the right technology to deliver the best possible solutions for any given project.</li><li>Was responsible for developing APIs for Crowed funding application.</li><li>Maintained Unix based development and production servers on the cloud.</li></ul>
+  summary: <ul class="resume-item-list"><li>Managed multiple projects along with the team with concrete and frozen deadlines.</li><li>Planned and executed projects and choosed the right technology to deliver the best possible solutions for any given project.</li><li>Proposed new detailed oriented solutions functional/non-functional, and ideas in collaboration with the team.</li><li>Constantly mentored and shared knowledge with junior developers and the team members for complete design, analysis, and development and configuration control of projects.</li><li>Directly involved in the development efforts to produce custom data driven multi-tiered applications and Web Services.</li><li>Maintained Unix based development and production servers on the cloud.</li><li>Maintained detailed git history for all projects and used Gitlab in team environment/</li><li>Acted as team lead during all phases of projects, from requirements gathering to supporting development effort</li></ul>
   technology: PHP, HTML, CSS, Twitter Bootstrap, Javascript, AngularJS, jQuery, Laravel, Codeigniter, Wordress, SVN, Git, Linux, Apache, MySQL, Memcached
 
 # i2we
 - company: i2we, Berkeley, CA, USA
   position: Software Engineer
   duration:   Mar, 2011  &mdash; Aug, 2011
-  summary: <ul class="resume-item-list"><li>Contributed to company's flagship product. Social Couponing, Facebook Design Tools, and a Social Communication Manager that will help you grow your business and succeed in social media.</li><li>Mainly worked on the PHP stack and do various R&Ds for the startup.</li></ul>
-  technology: PHP, HTML, CSS, Javascript, jQuery, Codeigniter, SVN, Linux, Apache, MySQL, Memcached
+  summary: <ul class="resume-item-list"><li>Contributed to company's flagship product. Social Couponing, Facebook Design Tools, and a Social Communication Manager that would help you grow your business and succeed in social media.</li><li>Mainly worked on the PHP stack and do various R&Ds for the startup.</li></ul>
+  technology: PHP, HTML, CSS, Javascript, jQuery, Codeigniter, Zend 1.8, SVN, Linux, Apache, MySQL, Memcached
 
 # Leevio
 - company: Leevio, Dhaka, Bangladesh
   position: Jr. Software Engineer
   duration:   May, 2010  &mdash; Aug, 2011
-  summary: <ul class="resume-item-list"><li>Worked on several enterprise level web applications. Specifically, drag & drop facebook page designer app & team collaboration ideas.</li><li>Implementation of module work flow and design.</li></ul>
-  technology: PHP, HTML, CSS, Javascript, jQuery, Codeigniter, Wordress, SVN, Linux, Apache, MySQL, Memcached
+  summary: <ul class="resume-item-list"><li>Developed a number of small to medium sized applications using test-driven, object-oriented approach.</li><li>Designed and wrote AJAX-enabled web applications using PHP, CodeIgniter, Zend, JQuery, JavaScript, Apache, and MySQL</li><li>Ensured that objectives were accomplished in accordance with outlined priorities.</li><li>Worked on module work flow and design. Specially Facebook page design tools.</li><li>Helped develop new business logic.</li></ul>
+  technology: PHP, HTML, CSS, Javascript, jQuery, Codeigniter, Zend 1.8, Wordress, SVN, Linux, Apache, MySQL, Memcached
