@@ -5,7 +5,7 @@
 
 # Web Development
 - skill: Web Development
-  description: Laravel, Codeigniter, Slim, Lumen, Elasticsearch, Redis, SocketIO, RabitMQ, Wordpress, Hugo, Jekyll, AngularJS, VueJS, JQuery, Twitter Bootstrap, Gulp, Bower, Firebase
+  description: PHP Framework(Laravel, Codeigniter, Lumen, Slim, Symfony, Zend), Elasticsearch, Memcached, Redis, Beanstalkd, Socket.IO, Iron.IO, Continuous Integration(Travis CI, Jenkins), Web framework(Twitter Bootstrap, Hugo, Jekyll), Wordpress, AngularJS, VueJS, JQuery, Firebase
 
 # System Administration
 - skill: System Administration
@@ -17,4 +17,4 @@
 
 # Tools & Services
 - skill: Tools & Services
-  description: Git, Composer, npm, vim, Third party APIs & Libraries
+  description: Git, Composer, Gulp, Bower, npm, vim, Third party APIs & Libraries

@@ -16,7 +16,7 @@ resume_contact_email:           "pollobcse05@gmail.com"
 resume_contact_telephone:       "+8801723084619"
 resume_contact_address:         "Dhaka, Bangladesh"
 resume_header_contact_info: "Dhaka, Bangladesh | +8801723084619 | pollobcse05@gmail.com"
-resume_header_intro: "<p>I like to consistently observe, evaluate, plan, and enhance the techniques procedures (even though most of my perform companions PHP) as I discovered it more exciting to professional the procedures which makes me and my perform more effective day by day than just creating and creating application or thoughtlessly following Agile/CMMI without examining how they might help the business develop. <br/><br/>Highly motivated and innovative in finding solution for problem. I love to program things that work in real world and useful for people in their business. I am professional, reliable and responsible for the work I do.</p>"
+resume_header_intro: "<p>An accomplished web application developer with 7+ years strong experience in all stages of Web and software development lifecycle, from concept and development through quality assurance (QA) and tuning. Extensive experience in designing and implementation of large-scale enterprise application following Agile/CMMI methodology. <br/><br/>Highly motivated and innovative in finding solution for problem. I love to program things that work in real world and useful for people in their business. Proficient in designing, analyzing, developing web based application in LAMP stack.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -43,9 +43,9 @@ resume_social_links:
   resume_twitter_url:           "https://twitter.com/piripasa"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://facebook.com/piripasa"
-  # resume_instagram_url:         "http://instagram.com/piripasa"
+  resume_instagram_url:         "http://instagram.com/piripasa"
   # resume_website_url:           "http://joelglovier.com"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
