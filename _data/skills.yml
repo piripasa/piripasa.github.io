@@ -5,7 +5,7 @@
 
 # Web Development
 - skill: Web Development
-  description: PHP Framework(Laravel, Codeigniter, Lumen, Slim, Symfony, Zend), Elasticsearch, Memcached, Redis, Beanstalkd, Socket.IO, Continuous Integration(Travis, Jenkins), Web framework(Twitter Bootstrap, Hugo, Jekyll), Wordpress, PhantomJS, VueJS, JQuery, Firebase
+  description: PHP Framework(Laravel, Codeigniter, Lumen, Slim, Symfony, Zend), Elasticsearch, Memcached, Redis, Beanstalkd, Socket.IO, Continuous Integration(Travis, Jenkins), Web framework(Twitter Bootstrap, Hugo, Jekyll), Wordpress, PhantomJS, VueJS, ReactJS, JQuery, Firebase
 
 # System Administration
 - skill: System Administration
