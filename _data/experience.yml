@@ -1,8 +1,15 @@
 # Jobs
+# Shohoz.com.
+- company: Shohoz.com, Dhaka, Bangladesh
+  position: Sr. Software Engineer
+  duration: September, 2018 &mdash; Present
+  summary: Plan, schedule, and arrange tasks to ensure the project moves through its lifecycle. Working with a large team to make people life's easy.
+  technology: PHP, Laravel/Lumen, NodeJS, GO, MySQL, DynamoDB, MongoDB, Elasticsearch, Redis, Git, Nginx, SocketIO, Firebase, Docker, AWS, Gitlab CI/CD
+
 # East West Media Group Ltd.
 - company: East West Media Group Ltd. Dhaka, Bangladesh
   position: Sr. Software Engineer
-  duration: June, 2016 &mdash; Present
+  duration: June, 2016 &mdash; August, 2018
   summary: Responsible for development and management of multiple projects. Plan, schedule, and arrange tasks to ensure the project moves through its lifecycle with few problems. Work with a large team to create a production ready product to be delivered to production at the end of each sprint <ul class="resume-item-list"><li>Plan, design and implement underlying resource and architecture for in-house developed web/mobile application.</li><li>Responsible for developing APIs for Instant Messaging App(gagagugu.com) which is in App store currently.</li><li>Work with the Platform Architect to achieve operational (dev/ops) Technical excellence of projects and future solutions.</li><li>Work closely and collaboratively with management, analysts, and performance improvement specialists to advance data integration</li><li>Database modeling, development, optimization and business intelligence service implementation.</li><li>Brainstorm solutions, and then executed the details to deliver end solutions.</li></ul>
   technology: PHP, Laravel, Lumen, Redis, Firebase, SocketIO, WebRTC, XMPP, HTML, CSS, Javascript, jQuery, VueJs, Redux, Git, Nginx, MySQL, Elasticsearch, AWS
 

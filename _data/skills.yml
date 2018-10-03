@@ -1,19 +1,19 @@
 # Skills
 # Programming/Scripting
 - skill: Programming/Scripting
-  description: PHP, Java, NodeJS, JavaScript, HTML, CSS, Shell
+  description: PHP, GO, NodeJS, JavaScript, HTML, CSS, Shell
 
 # Web Development
 - skill: Web Development
-  description: PHP Framework(Laravel, Codeigniter, Lumen, Slim, Symfony, Zend), Elasticsearch, Memcached, Redis, Beanstalkd, Socket.IO, Continuous Integration(Travis, Jenkins), Web framework(Twitter Bootstrap, Hugo, Jekyll), Wordpress, PhantomJS, VueJS, ReactJS, JQuery, Firebase
+  description: PHP Framework(Laravel/Lumen, Codeigniter, Symfony, Zend), Elasticsearch, Memcached, Redis, Beanstalkd, Socket.IO, RabbitMQ, CI/CD(Travis, Jenkins, GitLab), Web framework(Twitter Bootstrap, Hugo, Jekyll), Wordpress, PhantomJS, VueJS, ReactJS, JQuery, Firebase
 
 # System Administration
 - skill: System Administration
-  description: Popular Linux Distros, macOS, Unix based Virtual Private Servers, Apache, Nginx, Docker, AWS, Popular Deployment Services
+  description: Popular Linux Distros, OSX, Unix based Virtual Private Servers, Apache, Nginx, Docker, AWS, Popular Deployment Services
 
 # Database
 - skill: Database
-  description: SQLite, MySQL, PostgreSQL, mongoDB, Eloquent ORM
+  description: SQLite, MySQL, PostgreSQL, MongoDB, DynamoDB, Doctrine/Eloquent ORM
 
 # Tools & Services
 - skill: Tools & Services
