@@ -9,7 +9,7 @@
 
 # System Administration
 - skill: System Administration
-  description: Popular Linux Distros, OSX, Unix based Virtual Private Servers, Apache, Nginx, Docker, AWS, Popular Deployment Services
+  description: Popular Linux Distros, OSX, Unix based Virtual Private Servers, Apache, Nginx, Docker, AWS(EC2, S3, RDS), Popular Deployment Services
 
 # Database
 - skill: Database
